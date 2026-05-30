@@ -1,0 +1,12 @@
+flask
+flask-cors
+pandas
+numpy
+requests
+feedparser
+groq
+gunicorn
+pandas-ta
+yfinance
+scipy
+twelvedata
